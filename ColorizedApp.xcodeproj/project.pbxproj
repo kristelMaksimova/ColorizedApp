@@ -56,15 +56,23 @@
 		20881E8A278F50360035D7CF /* ColorizedApp */ = {
 			isa = PBXGroup;
 			children = (
-				20881E8B278F50360035D7CF /* AppDelegate.swift */,
-				20881E8D278F50360035D7CF /* SceneDelegate.swift */,
 				20881E8F278F50360035D7CF /* ViewController.swift */,
 				20881E91278F50360035D7CF /* Main.storyboard */,
-				20881E94278F503A0035D7CF /* Assets.xcassets */,
 				20881E96278F503A0035D7CF /* LaunchScreen.storyboard */,
+				20881E9F279067E50035D7CF /* App */,
+				20881E94278F503A0035D7CF /* Assets.xcassets */,
 				20881E99278F503A0035D7CF /* Info.plist */,
 			);
 			path = ColorizedApp;
+			sourceTree = "<group>";
+		};
+		20881E9F279067E50035D7CF /* App */ = {
+			isa = PBXGroup;
+			children = (
+				20881E8D278F50360035D7CF /* SceneDelegate.swift */,
+				20881E8B278F50360035D7CF /* AppDelegate.swift */,
+			);
+			path = App;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
