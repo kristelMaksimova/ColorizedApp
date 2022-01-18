@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ColorizedApp
 //
-//  Created by Kristel Maximova on 12.01.2022.
+//  Created by Kristel Maksimova on 12.01.2022.
 //
 
 import UIKit
